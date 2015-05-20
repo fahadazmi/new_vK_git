@@ -1,0 +1,981 @@
+﻿$axure.loadCurrentPage({
+  "url":"results.html",
+  "generationDate":new Date(1424419244222.78),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6f0d69cde017449bb48ae08476ce22d1",
+    "type":"Axure:Page",
+    "name":"Results",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"Case 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"fadeWidget",
+                "description":"Hide succ_profile,<br>succ_tweet",
+                "objectsToFades":[{
+                    "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                    "fadeInfo":{
+                      "fadeType":"hide",
+                      "options":{
+                        "showType":"none"}}},
+{
+                    "objectPath":["256b73948b38488b955e117d59610255"],
+                    "fadeInfo":{
+                      "fadeType":"hide",
+                      "options":{
+                        "showType":"none"}}}]}]}]}},
+    "diagram":{
+      "objects":[{
+          "id":"a45db19c22664ff9968c578becfc9232",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":-1,
+              "y":1},
+            "size":{
+              "width":1347,
+              "height":75}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fc6d525409314a9798dcace66cc57e95",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":-1,
+                  "y":1},
+                "size":{
+                  "width":1347,
+                  "height":75}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/new_page_1/u2.jpg"}},
+{
+          "id":"5bc9bb11352d49a6abe66206d7beae7e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":86},
+            "size":{
+              "width":307,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e57e9257b971426593bed85c6ceb9fda",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":86},
+                "size":{
+                  "width":307,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"532cf629b89040a1af707fdd5b69d7f0",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":150},
+            "size":{
+              "width":1193,
+              "height":550}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3d0cd8fa624d45839c7be1a9ac1e6ad2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Bold', 'Arial'",
+                "fontWeight":"700",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "size":{
+                  "width":596,
+                  "height":27},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a28cf1e22990444496cfa09a561ef49e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC},
+                    "size":{
+                      "width":596,
+                      "height":27},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/results/u5.png"}},
+{
+              "id":"6b848d9bebd5407dbdabd1efe59603ac",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":27},
+                "size":{
+                  "width":596,
+                  "height":523},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"bc6d6a12672948e0aee1ab3c28f469cd",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":27},
+                    "size":{
+                      "width":596,
+                      "height":523},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/results/u9.png"}},
+{
+              "id":"85dd53ba86bd4546aa550e0c0e319a99",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Bold', 'Arial'",
+                "fontWeight":"700",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":596,
+                  "y":0},
+                "size":{
+                  "width":597,
+                  "height":27},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"233e0ff23d1f4c148c824e4eb78220e9",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC},
+                    "location":{
+                      "x":596,
+                      "y":0},
+                    "size":{
+                      "width":597,
+                      "height":27},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/results/u7.png"}},
+{
+              "id":"b4b613101be94b5db2e514ad5c141387",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":596,
+                  "y":27},
+                "size":{
+                  "width":597,
+                  "height":523},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a052e09ac36145bd802105bc1a44c3b3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":596,
+                      "y":27},
+                    "size":{
+                      "width":597,
+                      "height":523},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/results/u11.png"}}]},
+{
+          "id":"961284e29e514b61b0517e346018425c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":192},
+            "size":{
+              "width":586,
+              "height":508}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0ed5724c85e540c3890350cd29be2f4e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":192},
+                "size":{
+                  "width":586,
+                  "height":508}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/results/u13.jpg"}},
+{
+          "id":"87c44f6f731143aeadd9182785a4ffaf",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":652,
+              "y":185},
+            "size":{
+              "width":598,
+              "height":495}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4cf66d219da24191bd8510dd4cd52dda",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":652,
+                  "y":185},
+                "size":{
+                  "width":598,
+                  "height":495}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/results/u15.jpg"}},
+{
+          "id":"1840bdd4789d443e8b7906f86509c512",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":200},
+            "size":{
+              "width":100,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_profile fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show succ_profile fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_profile fade 600 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":600,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"745178ffedfe42ca8127af9e5ee24257",
+          "label":"succ_profile",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF99FFCC},
+            "location":{
+              "x":490,
+              "y":40},
+            "size":{
+              "width":173,
+              "height":170},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4ea8f24d2c034f10b9af7b51c6b5f913",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF99FFCC},
+                "location":{
+                  "x":490,
+                  "y":40},
+                "size":{
+                  "width":173,
+                  "height":170},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/results/succ_profile_u18.png"}},
+{
+          "id":"256b73948b38488b955e117d59610255",
+          "label":"succ_tweet",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF99FFCC},
+            "location":{
+              "x":940,
+              "y":30},
+            "size":{
+              "width":173,
+              "height":170},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fb03eb81720b4be78d2e9384165822b1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF99FFCC},
+                "location":{
+                  "x":940,
+                  "y":30},
+                "size":{
+                  "width":173,
+                  "height":170},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/results/succ_profile_u18.png"}},
+{
+          "id":"8476ee34425244fd8ad46493445d555e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":298},
+            "size":{
+              "width":100,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_profile fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_profile fade 600 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":600,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"7455a7fd52a74f7186d7ed85861a8f3e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":370},
+            "size":{
+              "width":100,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_profile fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_profile fade 600 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":600,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"fa803b9b8bf547e7b4cee3bcc0c03ae2",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":440},
+            "size":{
+              "width":100,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_profile fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_profile fade 600 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":600,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"8f95421ee81e4a4c87b4888b2b42da9c",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":571},
+            "size":{
+              "width":100,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_profile fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_profile fade 600 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":600,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"a4e45d12d7c34d0087f149da2547aa42",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":641},
+            "size":{
+              "width":100,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_profile fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_profile fade 600 ms",
+                      "objectsToFades":[{
+                          "objectPath":["745178ffedfe42ca8127af9e5ee24257"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":600,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"b5f0d98a064044cf9c20e5c02fae8612",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1100,
+              "y":280},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_tweet fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["256b73948b38488b955e117d59610255"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_tweet fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["256b73948b38488b955e117d59610255"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"6f80a57bfacd4cb1998fdc10247fdf89",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1110,
+              "y":384},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_tweet fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["256b73948b38488b955e117d59610255"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_tweet fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["256b73948b38488b955e117d59610255"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"a0d0f90b125a489091b9780a9bd47069",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1110,
+              "y":505},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_tweet fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["256b73948b38488b955e117d59610255"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_tweet fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["256b73948b38488b955e117d59610255"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"21b0573a03af4396948694f2fd9f268a",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1110,
+              "y":620},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show succ_tweet fade 1200 ms",
+                      "objectsToFades":[{
+                          "objectPath":["256b73948b38488b955e117d59610255"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":1200,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide succ_tweet fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["256b73948b38488b955e117d59610255"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a45db19c22664ff9968c578becfc9232":{
+      "scriptId":"u0"},
+    "fc6d525409314a9798dcace66cc57e95":{
+      "scriptId":"u1"},
+    "5bc9bb11352d49a6abe66206d7beae7e":{
+      "scriptId":"u2"},
+    "e57e9257b971426593bed85c6ceb9fda":{
+      "scriptId":"u3"},
+    "532cf629b89040a1af707fdd5b69d7f0":{
+      "scriptId":"u4"},
+    "3d0cd8fa624d45839c7be1a9ac1e6ad2":{
+      "scriptId":"u5"},
+    "a28cf1e22990444496cfa09a561ef49e":{
+      "scriptId":"u6"},
+    "85dd53ba86bd4546aa550e0c0e319a99":{
+      "scriptId":"u7"},
+    "233e0ff23d1f4c148c824e4eb78220e9":{
+      "scriptId":"u8"},
+    "6b848d9bebd5407dbdabd1efe59603ac":{
+      "scriptId":"u9"},
+    "bc6d6a12672948e0aee1ab3c28f469cd":{
+      "scriptId":"u10"},
+    "b4b613101be94b5db2e514ad5c141387":{
+      "scriptId":"u11"},
+    "a052e09ac36145bd802105bc1a44c3b3":{
+      "scriptId":"u12"},
+    "961284e29e514b61b0517e346018425c":{
+      "scriptId":"u13"},
+    "0ed5724c85e540c3890350cd29be2f4e":{
+      "scriptId":"u14"},
+    "87c44f6f731143aeadd9182785a4ffaf":{
+      "scriptId":"u15"},
+    "4cf66d219da24191bd8510dd4cd52dda":{
+      "scriptId":"u16"},
+    "1840bdd4789d443e8b7906f86509c512":{
+      "scriptId":"u17"},
+    "745178ffedfe42ca8127af9e5ee24257":{
+      "scriptId":"u18"},
+    "4ea8f24d2c034f10b9af7b51c6b5f913":{
+      "scriptId":"u19"},
+    "256b73948b38488b955e117d59610255":{
+      "scriptId":"u20"},
+    "fb03eb81720b4be78d2e9384165822b1":{
+      "scriptId":"u21"},
+    "8476ee34425244fd8ad46493445d555e":{
+      "scriptId":"u22"},
+    "7455a7fd52a74f7186d7ed85861a8f3e":{
+      "scriptId":"u23"},
+    "fa803b9b8bf547e7b4cee3bcc0c03ae2":{
+      "scriptId":"u24"},
+    "8f95421ee81e4a4c87b4888b2b42da9c":{
+      "scriptId":"u25"},
+    "a4e45d12d7c34d0087f149da2547aa42":{
+      "scriptId":"u26"},
+    "b5f0d98a064044cf9c20e5c02fae8612":{
+      "scriptId":"u27"},
+    "6f80a57bfacd4cb1998fdc10247fdf89":{
+      "scriptId":"u28"},
+    "a0d0f90b125a489091b9780a9bd47069":{
+      "scriptId":"u29"},
+    "21b0573a03af4396948694f2fd9f268a":{
+      "scriptId":"u30"}}});
